@@ -1,6 +1,6 @@
 require 'capybara/cucumber'
 require 'rspec'
-require 'faker'
+
 require_relative '../../lib/roombooking_site.rb'
 
 
